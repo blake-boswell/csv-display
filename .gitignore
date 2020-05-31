@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*.txt
+node_modules
+testing
+data
